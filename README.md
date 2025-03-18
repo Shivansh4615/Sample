@@ -1,3 +1,12 @@
+# 📌 Profile Card
+
+## 🌟 Description
+A simple profile card built with **HTML & CSS** that displays a name, title, and a button.
+
+## 🎨 Demo Preview (HTML & CSS)
+Here is the code for the **profile card**:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,4 +63,3 @@
     </div>
 </body>
 </html>
-
