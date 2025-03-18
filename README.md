@@ -23,12 +23,6 @@
             width: 250px;
         }
 
-        .card img {
-            width: 100px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-        }
-
         .card h2 {
             color: #2c3e50;
         }
@@ -54,10 +48,10 @@
 </head>
 <body>
     <div class="card">
-        <img src="https://via.placeholder.com/100" alt="Profile Picture">
-        <h2>John Doe</h2>
+        <h2>Shivansh</h2>
         <p>Web Developer</p>
         <button class="btn">Follow</button>
     </div>
 </body>
 </html>
+
